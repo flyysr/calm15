@@ -1,0 +1,7 @@
+{
+    "name": "calm15/shine",
+    "description": "shinewaker,calm down 2015",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
